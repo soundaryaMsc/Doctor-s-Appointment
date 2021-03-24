@@ -7,18 +7,15 @@
 	<div class="contactus"  style="background-color:#fff;">
 		<h3 class="text-center" style="background-color:#272327;color: #fff;">Contact Us</h3>
 
-		
-		
+
+
 		<div class="main_content">
 			<div class="col-md-6" style="border-right: 2px solid black;">
 				<article>
-					<h2>Md. Azharul Islam <h2><h4>Studied B.Sc in Electronics and Communication Engineering</h4>
-							<h5>Hajee Mohammad Danesh Science and Technology University, Dinajpur-5200.</h5>
-						<p> https://portfolio.developerazad.com <br>
-							https://developerazad.wordpress.com <br>
-							https://linkedin.com/in/developerazad <br>
-							https://facebook/developerazad <br>
-							cell: +88 01764761919</p><br>
+					<h2> Archana <h2><h4>Studied M.Sc in information Technology</h4>
+							<h5>Garden City University, Bangalore</h5>
+						<p> <br>
+							cell: +91 9113221026</p><br>
 				</article>
 			</div>
 			<div class="col-md-6">
@@ -30,33 +27,33 @@
 
 						<label>
 								Last Name: <input type="text" name="lastname" value="" placeholder="lastname" required>
-						</label><br><br>	
+						</label><br><br>
 
 						<label>
 								Email: <input type="email" name="email"  value="" placeholder="Your email" required>
 						</label><br><br>
 						<label>
-								Your Comment: <textarea name="comment" id="" cols="30" rows="4" required></textarea> 
+								Your Comment: <textarea name="comment" id="" cols="30" rows="4" required></textarea>
 						</label><br><br>
-								
+
 						<input type="submit" value="Send Us" name="submit" style="margin-top: 75px;border-radius: 2px;"/>
 						<!-- <button name="submit" type="submit" class="btn btn-info"><i class="icon-signin icon-large"></i>&nbsp;Sign Up</button>
  -->
 					</form><br><br><br>
 			</div>
 
-          
+
  		</div>
 
 	</div>
-	
-	
 
-	
+
+
+
  <?php include('footer.php'); ?>
 
 
-	
+
 	</div><!--  containerFluid Ends -->
 
 
@@ -65,13 +62,13 @@
 	<script src="js/bootstrap.min.js"></script>
 
 
- 
+
 <!-- contact information inserting -->
 					<?php
 
 						include('config.php');
 						if(isset($_POST['submit'])){
-							
+
 
 							$sql = "INSERT INTO contact (firstname, lastname,email,comment)
 							VALUES ('" . $_POST["firstname"] ."','" . $_POST["lastname"] . "','" . $_POST["email"] . "','" . $_POST["comment"] . "' )";
@@ -84,11 +81,10 @@
 
 							$conn->close();
 						}
-					?> 
+					?>
 
 
 
-	
+
 </body>
 </html>
-

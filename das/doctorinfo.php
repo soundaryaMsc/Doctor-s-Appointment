@@ -3,20 +3,20 @@
 
 	<!-- mc info -->
 	<div class="doctors">
-        
+
 		                    <h3 class="text-center" style="background-color:#272327;color: #fff;">Doctors of Bangladesh</h3>
                             <div class="col-md-12" style="">
-                                  
+
 
 
                                   <div class="col-md-3">
                                       <img src="img/doctor1.jpg" alt="" class="img-responsive" style="width: 220px;height: 220px">
                                   </div> <br>
 
-                                  <div class="col-md-3" > 
+                                  <div class="col-md-3" >
 
-                                     
-                                     <h3 style="color:#0616BC;">Dr. Animesh Mojumdar</h3>
+
+                                     <h3 style="color:#0616BC;">Dr.Salimr</h3>
 
 
                                         <!-- Accordian Starts -->
@@ -45,8 +45,8 @@
                                                 </div>
                                                 <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
                                                   <div class="panel-body">
-                                                        Chamber: Seba Diagnostics, Charu Babur Mor, Dinajpur
-                                                       
+                                                        Chamber: Seba Diagnostics, Banglore
+
                                                   </div>
                                                 </div>
                                               </div>
@@ -54,7 +54,7 @@
                                                 <div class="panel-heading" role="tab" id="headingThree">
                                                   <h4 class="panel-title">
                                                     <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                                      Call for Appoinment 
+                                                      Call for Appoinment
                                                     </a>
                                                   </h4>
                                                 </div>
@@ -73,14 +73,14 @@
                                                     </a>
                                                   </h4>
                                                 </div>
-                                                
+
                                               </div>
 
                                             </div>
 
 
                                             <!-- Accordian End -->
-                                        
+
 
 
                                   </div>
@@ -90,8 +90,8 @@
                                   </div>
 
                                   <div class="col-md-3">
-                                       
-                                       <h3 style="color:#0616BC;">Dr. Ayesha Akter Banu</h3>
+
+                                       <h3 style="color:#0616BC;">Dr. Vikram </h3>
 
                                              <!-- Accordian Start -->
 
@@ -122,8 +122,8 @@ Gynecologist & Obestetrics
                                                 </div>
                                                 <div id="collapseTwo2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo2">
                                                   <div class="panel-body">
-                                                         Medical College Road (Near Medical College & Al Square Pharmacy), Dinajpur
-                                                       
+                                                        Banglore Medical College Road, Bangalore
+
                                                   </div>
                                                 </div>
                                               </div>
@@ -150,31 +150,31 @@ Gynecologist & Obestetrics
                                                     </a>
                                                   </h4>
                                                 </div>
-                                                
+
                                               </div>
 
                                             </div>
-                                        
-                                          <!-- Accordian End -->  
-                                            
-                                   </div> 
+
+                                          <!-- Accordian End -->
+
+                                   </div>
                              </div> <!-- col-md-12 End-->
 
                             <br><br>
 
 
                              <div class="col-md-12" style="">
-                                  
+
 
 
                                   <div class="col-md-3">
                                       <img src="img/doctor4.jpg" alt="" class="img-responsive" style="width: 220px;height: 220px">
                                   </div>
 
-                                  <div class="col-md-3" > 
+                                  <div class="col-md-3" >
 
-                                     
-                                     <h3 style="color:#0616BC;">Dr.Habibur Rahaman</h3>
+
+                                     <h3 style="color:#0616BC;">Dr.	Vipin Baskar</h3>
 
 
                                         <!-- Accordian Starts -->
@@ -204,8 +204,8 @@ Expertise: Brain, Nerve & Spine, Neuro-Surgeon
                                                 </div>
                                                 <div id="collapseTwo22" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
                                                   <div class="panel-body">
-                                                       Jamuna Diagnostic Complex, Near Dinajpur Medical College & Hospital
-                                                       
+                                                       Kasturba Medical College, Mangalore
+
                                                   </div>
                                                 </div>
                                               </div>
@@ -232,7 +232,7 @@ Expertise: Brain, Nerve & Spine, Neuro-Surgeon
                                                     </a>
                                                   </h4>
                                                 </div>
-                                                
+
                                               </div>
 
 
@@ -240,7 +240,7 @@ Expertise: Brain, Nerve & Spine, Neuro-Surgeon
 
 
                                             <!-- Accordian End -->
-                                        
+
 
 
                                   </div>
@@ -250,8 +250,8 @@ Expertise: Brain, Nerve & Spine, Neuro-Surgeon
                                   </div>
 
                                   <div class="col-md-3">
-                                       
-                                       <h3 style="color:#0616BC;">Dr.Anowar Hossain</h3>
+
+                                       <h3 style="color:#0616BC;">Dr.Archana</h3>
 
                                              <!-- Accordian Start -->
 
@@ -266,7 +266,7 @@ Expertise: Brain, Nerve & Spine, Neuro-Surgeon
                                                 </div>
                                                 <div id="collapseOne111" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
                                                   <div class="panel-body">
-                                                        MBBS (Dhaka), MD (Medicine)
+                                                        MBBS (Mangalore), MD (Medicine)
 Medicine Specialist
                                                   </div>
                                                 </div>
@@ -281,8 +281,8 @@ Medicine Specialist
                                                 </div>
                                                 <div id="collapseTwo222" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
                                                   <div class="panel-body">
-                                                       Seba Diagnostics, Charu Babur Mor, Dinajpur
-                                                       
+                                                       JMC Medical College, Bangalore
+
                                                   </div>
                                                 </div>
                                               </div>
@@ -290,7 +290,7 @@ Medicine Specialist
                                                 <div class="panel-heading" role="tab" id="headingThree">
                                                   <h4 class="panel-title">
                                                     <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree333" aria-expanded="false" aria-controls="collapseThree333">
-                                                      Call For Appointment 
+                                                      Call For Appointment
                                                     </a>
                                                   </h4>
                                                 </div>
@@ -309,49 +309,43 @@ Medicine Specialist
                                                     </a>
                                                   </h4>
                                                 </div>
-                                                
+
                                               </div>
-                                              
+
                                             </div>
-                                        
-                                          <!-- Accordian End -->  
-                                            
-                                   </div> 
+
+                                          <!-- Accordian End -->
+
+                                   </div>
                              </div> <!-- col-md-12 End-->
 
 
 
-                              
+
 
                             <br><br>
 
 
-                             
+
 
 
 
 
 	</div> <!-- Doctors End -->
 
-    <!-- footer section --> 
+    <!-- footer section -->
 			 <?php include('footer.php'); ?>
-    <!-- footer section Ends--> 
-	
+    <!-- footer section Ends-->
 
 
 
-		
+
+
 	</div><!--  containerFluid Ends -->
 
 
                <script src="js/jquery-1.11.3.min.js"></script> <!-- this works for collapse -->
                 <script src="js/bootstrap.min.js"></script>
-	
+
 </body>
 </html>
-
-
-
-
-
-

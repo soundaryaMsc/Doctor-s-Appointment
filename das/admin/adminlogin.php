@@ -26,12 +26,12 @@
 		<nav class="menu">
 			<ul>
 				<li><a href="../index.php">Home</a></li>
-				
+
 				<li><a href="logout.php">Logout</a></li>
 			</ul>
 		</nav>
 	</div>
-	
+
 
 
 
@@ -51,10 +51,10 @@
 					</label><br><br>
 					<button name="submit" type="submit" style="margin-top:3px;padding:3px 25px; border-radius:4px;float:right;margin-right:75px;">Login</button> <br>
 
-					
+
 
 					<!-- login validation -->
-			<?php 
+			<?php
 							$_SESSION['adminstatus']="";
 							include('../config.php');
 							if(isset($_POST["submit"])){
@@ -65,37 +65,37 @@
 
 									if ($result->num_rows > 0) {
 											$_SESSION["username"]= $_POST["username"];
-											
+
 											$_SESSION['adminstatus']= "yes";
 										    echo "<script>location.replace('viewDoctor.php');</script>";
 												// echo "u are supposed to redirect to ur profile";
 										} else {
 										    echo "<span style='color:red;'>Invalid username or password</span>";
 										}
-						$conn->close();		
+						$conn->close();
 					}
-					
+
  			?>
 		<!-- login validation End-->
 
 
 				</form> <br>&nbsp;&nbsp;&nbsp;
-				
+
 				<br>
 
-				
-		
-				
-			
-		
+
+
+
+
+
 	</div>
-	
-	
+
+
 </div>
-	
+
 <?php include('footer.php'); ?>
 
-	
+
 	</div><!--  containerFluid Ends -->
 
 
@@ -104,12 +104,11 @@
 	<script src="js/bootstrap.min.js"></script>
 
 
- 
-			
 
 
 
-	
+
+
+
 </body>
 </html>
-

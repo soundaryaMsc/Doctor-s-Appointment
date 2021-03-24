@@ -1,6 +1,6 @@
 <?php if(!isset($_SESSION)){
 	session_start();
-	}  
+	}
 ?>
 <?php include('header.php'); ?>
 <?php include('uptomenu.php'); ?>
@@ -20,11 +20,11 @@
 					<label>
 						Search By:<select name="address" type="text" style="width: 110px;margin-right: 175px;" />
 												<option>-Select-</option>
-												<option>Dhaka</option>
-												<option>Dinajpur</option>
-												<option>Rangpur</option>
-												<option>Rajsahi</option>
-												
+												<option>Bangalore</option>
+												<option>Mangalore</option>
+												<option>Manipal</option>
+												<option>Devagere</option>
+
 											</select>
 
 					</label><br><br>
@@ -46,22 +46,22 @@
 					</label>
 					<button name="submit" type="submit" style="border-radius: 3px;color:#000;margin-left: 145px;margin-top: 8px;">Search</button>
 					<br>
-					
+
 					</form>
 
 
 
-					
+
 		 	</div>
 	</div>
-	
-	
 
-	
+
+
+
  <?php include('../footer.php'); ?>
 
 
-	
+
 	</div><!--  containerFluid Ends -->
 
 

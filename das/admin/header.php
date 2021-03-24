@@ -5,7 +5,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<title>medical management system</title>
 	<link rel="stylesheet" href="css/bootstrap.min.css">
-	<link rel="stylesheet" href="style.css">
+	<link rel="stylesheet" href="style2.css">
 	<style>
 		.error {color: #FF0000;}
 	</style>
@@ -17,8 +17,8 @@
 		if($_SESSION['adminstatus'] == ""){
 			header("location:adminlogin.php");
 		}
-		
-		   
+
+
 
 	 ?>
 
@@ -32,9 +32,9 @@
 	<div class="navbar navbar-default nav">
 		<nav class="menu">
 			<ul>
-				
-				
-				
+
+
+
 				<li><a href="addDoctor2.php">Add Doctor</a></li>
 				<li><a href="viewDoctor.php">View Doctor</a></li>
 				<li><a href="viewCustomer.php">View Patient</a></li>
@@ -44,4 +44,3 @@
 			</ul>
 		</nav>
 	</div>
-	

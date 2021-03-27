@@ -24,7 +24,7 @@
 
 
 	<!-- this is for donor registraton -->
-	<div class="dashboard" style="background-color:#fff;">
+	<div class="dashboard" style="background-color:rgb(91, 60, 204);">
 		<h3 class="text-center" style="background-color:#272327;color: #fff;padding: 5px;">Welcome to Your Panel</h3>
 		<!--<img src="img/dash1.jpg" alt="logo.png img" class="img-responsive" style="margin-left:440px;width:300px;">
 		

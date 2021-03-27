@@ -156,7 +156,7 @@ if($_SESSION['donorstatus']==""){
 
 	
 	
- <?php include('../footer.php'); ?>
+ <?php //include('footer.php'); ?>
 
 
 	

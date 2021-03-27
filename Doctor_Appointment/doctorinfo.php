@@ -16,7 +16,7 @@
                                   <div class="col-md-3" >
 
 
-                                     <h3 style="color:#0616BC;">Dr.Salimr</h3>
+                                     <h3 style="color:#0616BC;">Dr.Sahimr</h3>
 
 
                                         <!-- Accordian Starts -->
@@ -91,7 +91,7 @@
 
                                   <div class="col-md-3">
 
-                                       <h3 style="color:#0616BC;">Dr. Vikram </h3>
+                                       <h3 style="color:#0616BC;">Dr. Elisa </h3>
 
                                              <!-- Accordian Start -->
 
@@ -168,7 +168,7 @@ Gynecologist & Obestetrics
 
 
                                   <div class="col-md-3">
-                                      <img src="img/doctor4.jpg" alt="" class="img-responsive" style="width: 220px;height: 220px">
+                                      <img src="img/doctor1.jpg" alt="" class="img-responsive" style="width: 220px;height: 220px">
                                   </div>
 
                                   <div class="col-md-3" >
@@ -246,7 +246,7 @@ Expertise: Brain, Nerve & Spine, Neuro-Surgeon
                                   </div>
 
                                  <div class="col-md-3">
-                                      <img src="img/doctor5.jpg" alt="" class="img-responsive" style="width: 220px;height: 220px">
+                                      <img src="img/doctor3.jpg" alt="" class="img-responsive" style="width: 220px;height: 220px">
                                   </div>
 
                                   <div class="col-md-3">

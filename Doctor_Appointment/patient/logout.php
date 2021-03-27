@@ -18,7 +18,7 @@
 		      header("location:../signin.php");
 
 	 ?>
- <?php include('footer.php'); ?>
+ <?php //include('footer.php'); ?>
 
 
 </body>

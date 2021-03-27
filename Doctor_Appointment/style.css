@@ -23,15 +23,15 @@ body{
 
 .header_top{
     background:url(img/steth.jpg) fixed no-repeat;
-    width: 100%;
+    width: 150%;
     height: 500px;
     background-size: 100% 100%!important;
 	font-family: 'El Messiri', sans-serif;
-
+    
 
 }
 .header_top img{
-	border-radius: 50%;
+	border-radius: 100%;
 }
 /*this is for present menu*/
 .menu{background-color:rgb(91, 60, 204)!important;width:auto;height:35px}

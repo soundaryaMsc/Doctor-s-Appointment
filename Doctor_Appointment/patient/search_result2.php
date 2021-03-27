@@ -102,7 +102,7 @@
 	<button style="margin-left: 605px;background-color:#332f30;color: antiquewhite;width: 115px;height: 30px;margin-bottom: 5px;">
 	<a href="search_doctor.php">Search Again</a></button>
 	
- <?php include('footer.php'); ?>
+ <?php //include('footer.php'); ?>
 
 
 	

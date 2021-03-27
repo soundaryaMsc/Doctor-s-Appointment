@@ -4,8 +4,9 @@
 body{
     padding: 5px auto;
     font-family: 'El Messiri', sans-serif;
-    background:url(../img/bg3.jpg) fixed no-repeat;
-    background-size:cover;
+    background-color: white;
+    /* background:url(../img/bg3.jpg) fixed no-repeat;
+    background-size:cover; */
 }
 .container-fluid{
    background-color: white;
@@ -24,11 +25,11 @@ body{
 
 }
 .header_top img{
-	border-radius: 50%;
+	border-radius: 150%;
 }
 /*this is for present menu*/
 .menu{
-    background-color:#1f1f21!important;
+    background-color: rgb(91, 60, 204)!important;
     width:auto;
     height:35px
 }
@@ -36,7 +37,7 @@ body{
     min-height:37px!important;
 }
 .navbar-default {
-    background-color:#1f1f21!important;
+    background-color:rgb(91, 60, 204)!important;
     border-color: #e7e7e7;
 }
 .menu ul{margin:0;
@@ -46,7 +47,7 @@ body{
 .menu ul li{float:left;border-right:1px solid #fff;position:relative;}
 
 .menu ul li:last-child{border-right:0px solid #fff}
-.menu ul li a{background:rgba(20, 21, 23, 0.99);display:block;padding:8px 25px;text-decoration:none;color:#fff;}
+.menu ul li a{background:rgb(91, 60, 204);display:block;padding:8px 25px;text-decoration:none;color:#fff;}
 .menu ul li a:hover{background:#fff;color:#000;}
 
 /*This CSS id for Dropdown Menu*/

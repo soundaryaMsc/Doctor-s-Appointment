@@ -24,7 +24,7 @@
 	
 
 	
- <?php include('../doctors/footer.php'); ?>
+ <?php //include('footer.php'); ?>
 
 
 	

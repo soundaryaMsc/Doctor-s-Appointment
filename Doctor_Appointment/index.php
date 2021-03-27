@@ -31,6 +31,9 @@
 				<p class="text-justify"></p>
 			</article>
 		</div>
+		<div class="pat">
+		<img src="img/doc.jpg" >
+		</div>
 		<div class="col-md-4">
 			<h3 class="text-center" style="font-weight:bold;font-family:inherit;">Search Your Own Hospital</h3><hr>
 			<ul class="text-justify">
